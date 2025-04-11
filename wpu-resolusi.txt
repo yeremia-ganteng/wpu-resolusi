@@ -2,3 +2,5 @@ WPU RESOLUSI
 - Konsisten ngoding
 - Membuat web keren
 - Menjadi fullstack
+- Menguasai Machine learning
+- Menjadi dewa
